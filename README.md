@@ -34,7 +34,7 @@
 
 ## Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/rubal-agrawal/](https://www.linkedin.com/in/german-fraire/))]
+<a href=https://www.linkedin.com/in/german-fraire/>![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/rubal-agrawal/](https://www.linkedin.com/in/german-fraire/))</a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubalagrawalru@gmail.com.com)](mailto:gergf22@gmail.com)
 
 
