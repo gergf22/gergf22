@@ -41,8 +41,8 @@
 ### GitHub Stats
 
 <a href="https://github.com/gergf22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gergf22&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergf22&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gergf22&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergf22&theme=dark&layout=compact" />
 </a>
 
 Thanks for visiting my profile! 😊
